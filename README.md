@@ -1,4 +1,3 @@
-[![MasterHead](https://v1.scrimba.com/articles/content/images/2022/11/image-1.png)
 
 <h1 align="center">Hi 👋, I am Sadıxlı Kənan</h1>
 <h3 align="center">A passionate Front-End Developer from Azerbaijan</h3>
